@@ -14,6 +14,7 @@ const factorial = function(num) {
 }
 
 const announceDate = function() {
+  console.log('heyyyyy')
   // TODO - write a function which returns the current date in the following format:
   // "Today's date is January 7th, 2016. It is eleven thirty-seven in the morning."
 }
