@@ -8,6 +8,7 @@ const reverse = function(str) {
 }
 
 const factorial = function(num) {
+  console.log('goodbye')
   // TODO - write a function which returns the factorial of a positive integer
   // For example, 5! = 5 * 4 * 3 * 2 * 1 = 120
 }
