@@ -3,6 +3,7 @@ const assert = require("assert")
 // Feel free to look things up online!
 
 const reverse = function(str) {
+  console.log('hello')
   // TODO - write a function which reverses the string
 }
 
